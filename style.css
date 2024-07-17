@@ -178,6 +178,15 @@
   .logo{
     text-align: center;
   }
+  .logo h1{
+    font-size: 2rem;
+  }
+  .collection{
+    margin-top: 400px;
+  }
+  .header{
+    margin-bottom: 400px;
+  }
 }
 
 
